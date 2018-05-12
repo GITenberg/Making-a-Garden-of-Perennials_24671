@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '26660'
     url: http://www.gutenberg.org/2009/agents/26660
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24671#Making-a-Garden-of-Perennials
 gutenberg_bookshelf: Horticulture
 gutenberg_issued: '2008-02-22'
 gutenberg_type: Text
